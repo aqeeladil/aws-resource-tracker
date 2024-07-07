@@ -1,5 +1,5 @@
-# Aws_resource_tracker
-**Aws_resource_tracker** is a script to report the usage of AWS resources on your account. Then you can integrate this script with Cronjob, and then cronjob will execute the script at your specified date and time.
+# Aws resource tracker
+It is a script to report the usage of AWS resources on your account. Then you can integrate this script with Cronjob, and then cronjob will execute the script at your specified date and time.
 
 <br>
 
