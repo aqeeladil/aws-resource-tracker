@@ -11,18 +11,20 @@ sudo apt update
 ```
 <br>
 
-2. ***Clone the repository***
+2. Clone the repository
 ```bash
 git clone https://github.com/aqeeladil/aws-resource-tracker.git
 ```
 ```bash
 cd aws-resource-tracker
+```
+```bash
 chmod +x resource_tracker.sh
 ```
 
 <br>
 
-3. ***Aws CLI Installation***
+3. Aws CLI Installation <br>
 Install or update to the latest version of the AWS CLI from [here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
 
 <br>
@@ -43,6 +45,8 @@ crontab -e
 ```
 ```bash
 crontab -l
+```
+```bash
 cat /path/to/outputfile.txt
 ```
 <br><br>
